@@ -1,0 +1,51 @@
+/* body{
+  font-family: sans-serif;
+} */
+
+.shiva{
+width: 100px;
+text-align: center;
+height: 100px;
+background: #2c6b96;
+-moz-border-radius: 50px;
+-webkit-border-radius: 50px;
+border-radius: 50px;
+float:left;
+margin:5px;
+}
+
+.count
+{
+line-height: 100px;
+color: rgb(225, 230, 226);
+text-align: center;
+font-size: 25px;
+}
+
+.pad3{
+  padding: 20px;
+  margin: 10px 0;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.line{
+  margin: 50px 0;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.txt{
+  margin: 0 10px;
+  max-width: 150px;
+  text-align: center;
+  color: black;
+}
+
+p{
+  margin: 1em 0;
+}
